@@ -12,35 +12,35 @@ In this file, I have mentioned the results of various edge detection algorithms.
 </tr>
 <tr>
     <td>
-    <img src="Sobel_Edge_Detection_results/1_Original.png">
+    <img src="Sobel_Edge_Detection_Results/1_Original.png">
     </td>
     <td>
-    <img src="Sobel_Edge_Detection_results/1_Horizontal.png">
+    <img src="Sobel_Edge_Detection_Results/1_Horizontal.png">
     </td>
     <td>
-    <img src="Sobel_Edge_Detection_results/1_Vertical.png">
-    </td>
-</tr>
-<tr>
-    <td>
-    <img src="Sobel_Edge_Detection_results/2_Original.png">
-    </td>
-    <td>
-    <img src="Sobel_Edge_Detection_results/2_Horizontal.png">
-    </td>
-    <td>
-    <img src="Sobel_Edge_Detection_results/2_Vertical.png">
+    <img src="Sobel_Edge_Detection_Results/1_Vertical.png">
     </td>
 </tr>
 <tr>
     <td>
-    <img src="Sobel_Edge_Detection_results/3_Original.png">
+    <img src="Sobel_Edge_Detection_Results/2_Original.png">
     </td>
     <td>
-    <img src="Sobel_Edge_Detection_results/3_Horizontal.png">
+    <img src="Sobel_Edge_Detection_Results/2_Horizontal.png">
     </td>
     <td>
-    <img src="Sobel_Edge_Detection_results/3_Vertical.png">
+    <img src="Sobel_Edge_Detection_Results/2_Vertical.png">
+    </td>
+</tr>
+<tr>
+    <td>
+    <img src="Sobel_Edge_Detection_Results/3_Original.png">
+    </td>
+    <td>
+    <img src="Sobel_Edge_Detection_Results/3_Horizontal.png">
+    </td>
+    <td>
+    <img src="Sobel_Edge_Detection_Results/3_Vertical.png">
     </td>
 </tr>
 </table>
